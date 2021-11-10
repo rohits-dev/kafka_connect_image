@@ -1,0 +1,1 @@
+docker build -f ./kafka-connect.Dockerfile -t rohit/kafka-connect:1 .
